@@ -19,7 +19,7 @@
   <samp>
     <a href="https://www.google.com/search?q=khaireddine">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Tunisie</b> 」
+    「  I am a full stack web application developer from <b>Tunisie</b>  」
     <br>
     <br>
   </samp>
